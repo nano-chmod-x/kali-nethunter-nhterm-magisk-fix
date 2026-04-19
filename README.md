@@ -12,10 +12,9 @@ Getting this error when launching NetHunter Terminal?
 ```
 line 35: -c: command not found (code 127)
 ```
-
-
-
-
+```bash
+git clone https://github.com/nano-chmod-x/kali-nethunter-nhterm-magisk-fix.git
+```
 This affects users running Magisk 26+ because the original NetHunter Terminal script has a compatibility issue.
 
 ## Why The Original Script Fails
